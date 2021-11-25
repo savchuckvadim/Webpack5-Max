@@ -4,7 +4,7 @@ import { render } from 'react-dom'
 import { App } from './App'
 // styles
 import 'bootstrap/dist/css/bootstrap.min.css'
-
+//https://habr.com/ru/post/524260/
 console.log(process.env.SECRET)
 
 import logo from './assets/logo.png'
